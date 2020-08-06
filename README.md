@@ -8,7 +8,7 @@
 ```csharp
 var me = new Developer("RUKA SPROUT");
 me.devWhat = "Game Develop";
-me.gameEngine = { "Unreal Engine 4", "Unity Engine" }
+me.gameEngine = { "Unreal Engine 4", "Unity Engine" };
 ```
 
 ```csharp
@@ -20,6 +20,8 @@ if (you.haveMind("Join my projects") || you.haveMind("Invite me to another proje
   contact(you, me);
 }
 ```
+
+[Github Page](https://lutca1320.github.io/) / [Gallery Website](https://rukasp.xyz/) / ![GitHub followers](https://img.shields.io/github/followers/lutca1320?label=Follow&style=social) / [![](https://img.shields.io/badge/Gmail-lutca1320%40gmail.com-blue)](mailto:lutca1320@gmail.com)
 
 ### Game Dev Projects
 
