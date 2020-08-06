@@ -1,21 +1,17 @@
 **Hi, I'm Unreal / Unity Engine Game Developer `RUKA SPROUT`**
 
-- Currently I'm mainly developing Project **`Intersection`**, a traffic management game inspired from `Cities:Skyline` & `Mini-Motorways`
+- Currently I'm mainly developing Project **`Intersection`**, a traffic management game inspired from `Cities:Skyline`✈️ & `Mini-Motorways`🚘
 
-<br>
-</br>
 
 ### Game Dev Projects
 
 <a href="https://github.com/lutca1320/Intersection">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Intersection" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Intersection" />
 </a>
 <a href="https://github.com/lutca1320/Together">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Together" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Together" />
 </a>
 
-<br>
-</br>
 
 ### Stats
 
