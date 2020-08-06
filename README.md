@@ -17,15 +17,6 @@
 <br>
 </br>
 
-### Software Dev Projects
-
-<a href="https://github.com/lutca1320/ReadMe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=ReadMe" />
-</a>
-
-<br>
-</br>
-
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutca1320&hide=html,Python)](https://github.com/anuraghazra/github-readme-stats)
