@@ -39,3 +39,6 @@ if (you.haveMind("Join my projects") || you.haveMind("Invite me to another proje
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutca1320&hide=html,Python,Swift)](https://github.com/anuraghazra/github-readme-stats)
 ![RUKA's github stats](https://github-readme-stats.vercel.app/api?username=lutca1320&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
