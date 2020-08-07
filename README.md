@@ -40,21 +40,6 @@ if (you.haveMind("Join my projects") || you.haveMind("Invite me to another proje
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutca1320&hide=html,Python,Swift)](https://github.com/anuraghazra/github-readme-stats)
 ![RUKA's github stats](https://github-readme-stats.vercel.app/api?username=lutca1320&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs)
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 350 Contributions in year 2020
- > 
-> 📦 Used 2.5 MB in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 2 Owned Private Repositories 
-
 **I'm a night 🦉** 
 
 ```text
@@ -103,24 +88,4 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 Windows                  17 hrs 10 mins      █████████████████████████   100.0%
 
 ```
-
-**I mostly code in Swift** 
-
-```text
-Swift        3 repos        █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Python       3 repos        █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-C++          3 repos        █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-HTML         1 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-PLSQL        1 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-C#           1 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Makefile     1 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/lutca1320/lutca1320/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
