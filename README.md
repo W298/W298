@@ -15,7 +15,7 @@ me.gameEngine = { "Unreal Engine 4", "Unity Engine" };
 var mainProject = new Project("Intersection");
 mainProject.inspiredFrom = { "Cities:Skyline", "Mini-Mortorways" };
 
-if (you.haveMind("Join my projects") || you.haveMind("Invite me to another project"))
+if (you.HaveMind(myProjects.join) || you.HaveMind(Invite(me, anotherProject)))
 {
   contact(you, me);
 }
