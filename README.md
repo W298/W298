@@ -17,7 +17,7 @@ mainProject.inspiredFrom = { "Cities:Skyline", "Mini-Mortorways" };
 
 if (you.HaveMind(myProjects.join) || you.HaveMind(Invite(me, anotherProject)))
 {
-  you.contact(me);
+    you.contact(me);
 }
 ```
 
