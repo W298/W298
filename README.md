@@ -36,8 +36,8 @@ if (you.HaveMind(myProjects.join) || you.HaveMind(Invite(me, anotherProject)))
 <a href="https://github.com/lutca1320/Reversi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Reversi" />
 </a>
-<a href="https://github.com/lutca1320/Knights">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Knights" />
+<a href="https://github.com/lutca1320/Knight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Knight" />
 </a>
 
 
