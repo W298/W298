@@ -23,24 +23,6 @@ if (you.HaveMind(myProjects.join) || you.HaveMind(Invite(me, anotherProject)))
 
 [Github Page](https://lutca1320.github.io/) / [Gallery Website](https://rukasp.xyz/)
 
-![GitHub followers](https://img.shields.io/github/followers/lutca1320?label=Follow&style=social) / [![](https://img.shields.io/badge/Gmail-lutca1320%40gmail.com-blue)](mailto:lutca1320@gmail.com)
-
-### Game Dev Projects
-
-<a href="https://github.com/lutca1320/Intersection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Intersection" />
-</a>
-<a href="https://github.com/lutca1320/Together">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Together" />
-</a>
-<a href="https://github.com/lutca1320/Reversi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Reversi" />
-</a>
-<a href="https://github.com/lutca1320/Knight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lutca1320&repo=Knight" />
-</a>
-
-
 ### Stats
 
 ![RUKA's github stats](https://github-readme-stats.vercel.app/api?username=lutca1320&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs)
