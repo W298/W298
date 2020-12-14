@@ -43,7 +43,7 @@ if (you.HaveMind(myProjects.join) || you.HaveMind(Invite(me, anotherProject)))
 
 ### Stats
 
-![RUKA's github stats](https://github-readme-stats.vercel.app/api?username=lutca1320&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs)
+![RUKA's github stats](https://github-readme-stats.vercel.app/api?username=lutca1320&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
