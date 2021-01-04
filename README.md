@@ -57,13 +57,13 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Atom                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Intersection             0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
