@@ -21,7 +21,7 @@ if (you.HaveMind(myProjects.join) || you.HaveMind(Invite(me, anotherProject)))
 }
 ```
 
-[Github Page](https://lutca1320.github.io/) / [Gallery Website](https://rukasp.xyz/)
+[Github Page](https://lutca1320.github.io/)
 
 ### Stats
 
