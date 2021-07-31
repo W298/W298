@@ -21,4 +21,6 @@ if (you.HaveMind(myProjects.join) || you.HaveMind(Invite(me, anotherProject)))
 }
 ```
 
-[Github Page](https://lutca1320.github.io/)
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lutca1320&theme=dark&hide_border=true&background=0A0D12)](https://git.io/streak-stats)
