@@ -1,4 +1,4 @@
-**Hi, I'm Unreal / Unity Engine Game Developer `RUKA SPROUT`**
+**Hi, I'm Unreal / Unity Engine Game Developer `ruka`**
 
 - Currently I'm mainly developing Project **`Intersection`**, a traffic management game inspired from `Cities:Skyline`✈️ & `Mini-Motorways`🚘
 - I'm a solo developer, but if you have mind to `join my project` or `invite me to another project`, please **contact me.**
