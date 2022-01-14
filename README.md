@@ -44,4 +44,4 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rinruna&theme=dark&hide_border=true&background=0A0D12)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=riruna&theme=dark&hide_border=true&background=0A0D12)](https://git.io/streak-stats)
